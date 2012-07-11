@@ -59,7 +59,7 @@ body {
   line-height: 22px;
   font-family: "adelle", Georgia, "Times New Roman", serif;
   color: #4e443c;
-  background: #f0efe7 url(/images/bg/body.jpg);
+  background: #f0efe7 url(../images/bg/body.jpg);
 }
 
 .windows.chrome body *,
@@ -306,7 +306,7 @@ footer a:hover {
 }
 footer .site-source {
   float: left;
-  background: transparent url(/images/code.png) 0 2px no-repeat;
+  background: transparent url(images/code.png) 0 2px no-repeat;
   padding-left: 46px;
 }
 footer .sfc-member {
@@ -679,7 +679,7 @@ body {
   line-height: 22px;
   font-family: "adelle", Georgia, "Times New Roman", serif;
   color: #4e443c;
-  background: #f0efe7 url(/images/bg/body.jpg);
+  background: #f0efe7 url(../images/bg/body.jpg);
 }
 
 .windows.chrome body *,
